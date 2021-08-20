@@ -10,6 +10,7 @@
 * Roterende retningshusker
 	* Hvis personen ikke kan huske retning, skal de drikke et shot
 	* Hvis personen ikke kan huske retning, og de lyver omkring det og en anden kan huske, drikke 2 shots
+	* Hvis flertallet er enig om at en retning vil ende i blindgyde og er uening med algoritmen, ændres retningen. Men flertallet skal så tage shots.
 
 ## Start
 
