@@ -19,7 +19,7 @@
 
 1. Venstre
 2. Ligeud
-3. Høre
+3. Højre
 
 * Hvis en retning ikke er mulig, skip
 
@@ -38,6 +38,6 @@
 3. Jesper
 4. Johan
 5. Jackie
-6. Fie
-7. Patrick
+6. Patrick
+7. Fie
 8. Andreas
