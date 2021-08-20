@@ -31,6 +31,7 @@
 * Et sted man kan sidde
 * Max ventetid 10 min
 * Når den sidste har drukket første genstand, skal vi gå umiddelbart efter
+* Ingen repeats
 
 ## Rotation
 
